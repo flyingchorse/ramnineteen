@@ -11,4 +11,12 @@ function my_theme_enqueue_styles() {
         $theme->get('Version') // this only works if you have Version in the style header
     );
 }
+
+/**
+ * Replace the home link URL
+ */
+add_filter( 'woocommerce_breadcrumb_home_url', 'woo_custom_breadrumb_home_url' );
+function woo_custom_breadrumb_home_url() {
+    return get_page_link(130);
+}
 ?>
