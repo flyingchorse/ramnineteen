@@ -1,0 +1,60 @@
+/*
+Theme Name:   Ramteen
+ Theme URI:    https://www.wordpress.com
+ Description:  UnderStrap Child Theme
+ Author:       Holger Koenemann
+ Template:     twentynineteen
+ Version:      0.0.1
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ */
+
+ .site-logo .custom-logo-link {
+	border-radius:unset;
+}
+.site-header.featured-image {
+min-height: 70vh;
+	padding-top:20px;
+}
+.site-header.featured-image.shop {
+	min-height:10vh;
+}
+.site-header.featured-image:after , .woocommerce .site-header.featured-image:after  {
+	background: linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0)); 
+	opacity: 1;
+	
+}
+
+.site-footer {
+	background-color: black;
+}
+.entry .entry-content > *, .entry .entry-summary > * {
+	margin: 0;
+}
+.entry .entry-content > *.alignfull, .entry .entry-summary > *.alignfull {
+	margin:0;
+}
+.entry .entry-content .wp-block-cover {
+	min-height: 80vh;
+}
+.steel-frame-text {
+	margin-top: -300px;
+	font-family: Roboto Slab;
+	font-weight:700;
+	
+}
+.entry .entry-content .wp-block-pullquote p {
+	font-style: unset;
+	font-family: Roboto Slab;
+	
+}
+@media only screen and (min-width: 768px){
+.woocommerce .content-area .site-main {
+		margin: calc(2 * 1rem) 1rem!important;
+	}}
+
+@media only screen and (min-width: 1168px){
+.woocommerce .content-area .site-main {
+		margin: calc(2 * 1rem) 1rem!important;
+	}}
+
