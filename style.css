@@ -48,13 +48,11 @@ min-height: 70vh;
 	font-family: Roboto Slab;
 	
 }
-@media only screen and (min-width: 768px){
-.woocommerce .content-area .site-main {
-		margin: calc(2 * 1rem) 1rem!important;
-	}}
 
-@media only screen and (min-width: 1168px){
-.woocommerce .content-area .site-main {
-		margin: calc(2 * 1rem) 1rem!important;
-	}}
+@media only screen and (min-width:1168px) {
+	.woocommerce .content-area .site-main {
+
+		max-width:calc(8 * (100vw / 12) - 28px)!important;
+	}
+}
 
