@@ -49,10 +49,12 @@ min-height: 70vh;
 	
 }
 
+
+
 @media only screen and (min-width:1168px) {
 	.woocommerce .content-area .site-main {
 
-		max-width:calc(8 * (100vw / 12) - 28px)!important;
+		max-width:calc(12 * (100vw / 12) - 28px)!important;
 	}
 }
 

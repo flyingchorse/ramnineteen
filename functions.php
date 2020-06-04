@@ -59,5 +59,4 @@ function add_ramsidebar() {
 
 }
 add_action( 'widgets_init', 'add_ramsidebar' );
-
 ?>
