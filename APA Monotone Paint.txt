@@ -1,0 +1,84 @@
+APA Monotone Paint
+BHC Rain Brake Support 
+BHD BNG Hill Start Assist  
+BNT Trailer Sway Damping  
+CB9 2nd Row In Floor Storage Bin 
+CG Supplemental Side Air Bag 
+CJ1 Supplemental Frt Seat Side Air Bag 
+CLP Door Sill Scuff Pad 
+C1G Rotary Shifter-Black 
+GAC Tinted Glas Window 
+GXM Remote Keyles Entry 
+HGB Dash Liner Insulation 
+JJB Dual Note Electric Horn 
+JKY Power Accessory Delay 
+JY1 Instrument Cluster Theme 1 (Base) 
+LAW Tire Fill Alert LAX LA6 Incandescent Taillamp 
+LBT Overhead Cupholder Lamp
+LMG Automatic Headlamp 
+LPB Rear License Plate w/Lamp Bracket
+MDX Upper Active Grille Shutter
+
+MHL MOPAR Rear Wheel Well Liner 
+MS2 1500 Badge 
+MXA Fixed Front Air Dam  
+NA1 Export Emission 
+QXJ Diamond Black Crystal P/C  
+RSU Audio Jack Input for Mobile Device 
+SBL Electric Power Steering  
+SGB Rear Heavy Duty Shock Absorber 
+SHA SUD Tilt/Telescope Steering Column 
+TBB WMJ Center Hub 
+XBQ Steering Wheel Mounted Shift Control 
+XCT Coat Hook 
+XFK 7 Pin Wiring Harnes 
+XGR Rear Seat Heat Duct 
+
+Col 2
+
+BCN
+BHC Rain Brake Support BHD BNG Hill Start Assist BNM BNT Trailer Sway Damping BRT CB9 2nd Row In Floor Storage Bin CEV
+CG Supplemental Side Air Bag CGU
+CJ1 Supplemental Frt Seat Side Air Bag CKE CLP Door Sill Scuff Pad CSP C1G Rotary Shifter-Black DH8 GAC Tinted Glas Window GAQ GXM Remote Keyles Entry GXX HGB Dash Liner Insulation JDC JJB Dual Note Electric Horn JJJ JKY Power Accessory Delay JPH JY1 Instrument Cluster Theme 1 (Base) LAC LAW Tire Fill Alert LAX LA6 Incandescent Taillamp LBA LBT Overhead Cupholder Lamp LHD
+LMG Automatic Headlamp LM1 LPB Rear License Plate w/Lamp Bracket LPE
+MDX Upper Active Grille Shutter MEN
+ALL-NEW 2019 RAM 1500 | Bighorn
+BCN 730 Amp Maintenance Free Battery 
+BHD Ready Alert Braking
+BNM Traction Control
+BRT Anti-Lock 4-Wheel Disc Brake
+CEV Key Fob - Satin Chrome
+CGU Child Seat Anchor System-LATCH Ready
+CKE Carpet Floor Covering
+CSP Passenger Assist Handle
+DH8 Elec Shift On Demand Transfer Case
+GAQ Acoustic Front Door Glas
+GXX Sentry Key Theft Deterrent System
+JDC 200 KPH Primary Speedometer
+JJJ 12V Auxiliary Power Outlet
+JPH Speed Sensitive Power Lock
+LAC Illuminated Entry
+LAX Front Passenger Seat Belt Alert
+LBA Map/Courtesy Lamp
+LHD Headlamp Off Time Delay
+LM1 Daytime Running Headlamp , Low Beam
+LPE Cargo Lamp
+MEN Front Wheel Spat
+
+
+
+MHR MS2 1500 Badge MUS MXA Fixed Front Air Dam MYF NA1 Export Emission NFW QXJ Diamond Black Crystal P/C RD3 RSU Audio Jack Input for Mobile Device RSX SBL Electric Power Steering SCV SGB Rear Heavy Duty Shock Absorber SHA SUD Tilt/Telescope Steering Column TBB WMJ Center Hub XAC XBQ Steering Wheel Mounted Shift Control XBS XCT Coat Hook XC4 XFK 7 Pin Wiring Harnes XGA XGR Rear Seat Heat Duct XJJ
+MHR Front Wheel Well Liner
+MUS 4X4 Badge
+MYF Big Horn Badge
+NFW 26 Gallon Fuel Tank
+RD3 Accent Color Shark Fin Antenna 
+RSX Remote USB Port
+SCV Leather Wrapped Steering Wheel 
+SHA Front Stabilizer Bar
+TBB Full Size Spare Tire
+XAC ParkView Rear Back-up Camera Pickup Box
+XC4 Electric Park Brake
+XGA Front/Rear Climate Control Outlet 
+XJJ Locking Tailgate
+XXU Electronic Shift
