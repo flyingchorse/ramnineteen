@@ -31,7 +31,7 @@
 			</div><!-- .site-branding-container woo loads this-->
 				<div class="site-featured-image">
 				<figure class="post-thumbnail">
-				<?php echo get_the_post_thumbnail(63); ?>
+				<?php echo get_the_post_thumbnail(130); ?>
 			</figure><!-- .post-thumbnail -->		
 				<div class="entry-header">	
 							<h1 class="entry-title"><?php woocommerce_page_title();?></h1>
